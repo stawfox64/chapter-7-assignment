@@ -68,12 +68,12 @@ main{
     display: block;
     overflow:auto;
 }
-section{
+section {
     float: left;
-padding-left: 6em;
-padding-right: 4em;
-width: 15px;
-}
+    padding-left: 2em;
+    padding-right: 2em;
+    width: 33%;
+  }
 h1{
     font-size: 3em;
     letter-spacing: 0.25em;
